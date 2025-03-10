@@ -1,0 +1,37 @@
+algo monster:
+
+2 poinetrs:
+    [] sliding window
+    [] prefix sum
+    [] cycle finding
+
+dfs:
+    [] reconstruct binary tree
+    [] binary search tree
+
+bfs:
+    [] bfs on tree
+
+binary search:
+    [] implicitly sorted array
+
+neetcode:
+1. go over all easy questions - and learn other approaches for solving it less efficently
+
+
+
+[] array & hashing medium
+[] linkedin list easy + medium
+[] stack mediume
+[] binayr search medium
+[] trees medium
+
+when finish the stack, start also learning backtracing
+than grahps
+
+
+
+General to do:
+    [] valid anagarms / find all anagarms in both objects and hash maps
+
+    
